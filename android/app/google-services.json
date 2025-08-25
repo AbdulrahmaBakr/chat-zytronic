@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721630590709",
+    "project_id": "chat-zytronic",
+    "storage_bucket": "chat-zytronic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721630590709:android:65979e157655c59abb37bc",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRj7D8HT9zAHpT7KGLt4U3RcMwINs-PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
